@@ -1,3 +1,6 @@
 pp_venv
 plot
 .venv
+data/raw
+data/processed
+data_handling.ipynb
